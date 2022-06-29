@@ -14,9 +14,7 @@
 
 1. Сохраните все файлы в папку amoCRM
 
-2. Создайте интеграцию в вашем аккаунте amoCRM:
-
-![integrationAmoCRM](img/integrationAmoCRM.png)
+2. Создайте интеграцию в вашем аккаунте amoCRM
 
 3. Заполните форму [Start](helpers/formStart.html "This form must be completed once.")
 
