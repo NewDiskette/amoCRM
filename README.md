@@ -32,14 +32,17 @@
     * Пример1: newdiskette
     * Пример2: diskette
 
-3. Client secret: секретный код
-    Пример: knmxsSDMZSJATUKw5NwmLkvJMNrkADnPhiDXfuWJRo5zmQtR9dUFWyjAq6gG2BIs
+3. Client secret (Секретный ключ):
+   
+   * Пример: knmxsSDMZSJATUKw5NwmLkvJMNrkADnPhiDXfuWJRo5zmQtR9dUFWyjAq6gG2BIs
 
-4. Client Id: ID интеграции
-    Пример: 624aadee-1cdd-4832-b48c-b33126b9304d
+4. Client Id (ID интеграции):
+   
+   * Пример: 624aadee-1cdd-4832-b48c-b33126b9304d
 
-5. Authorization code: авторизационный код
-    Пример: def5020075c8528a1c88bc5295682bbce6e1bd5525be5cf7e1d28c352c775a...
+5. Authorization code (Код авторизации):
+   
+   * Пример: def5020075c8528a1c88bc5295682bbce6e1bd5525be5cf7e1d28c352c775a...
 
 ## Моя почта:
 <NewDiskette@gmail.com>
